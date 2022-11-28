@@ -1,0 +1,4 @@
+#id:hover, #name:hover, #type:hover, #base_damage:hover, #base_hp:hover, #speed:hover,#min_damage:hover,#max_damage:hover,#daño:hover{
+    background: rgb(211, 199, 199);
+    cursor: pointer;
+}
